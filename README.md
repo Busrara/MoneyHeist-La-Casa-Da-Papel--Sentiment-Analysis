@@ -69,6 +69,7 @@ This analysis gives insights into how the audience feel about "Money Heist", wit
 - **Use advanced sentiment analysis models**: Utilize machine learning models to improve sentiment classification accuracy.
 - **Topic Modeling**: Perform topic modeling to understand the specific themes which are being discussed in the tweets.
 
+You can also check my Medium writing on this project here https://medium.com/@busraracoban/money-heist-and-twitter-understanding-audience-reactions-through-data-14d320259875 🔗
 ## License:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
