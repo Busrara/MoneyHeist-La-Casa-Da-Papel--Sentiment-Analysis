@@ -56,9 +56,9 @@ This project performs sentiment analysis on tweets about the popular TV series "
 - Tweet 3: "Not as exciting as I thought it would be. #MoneyHeist"
 
 **Sentiment Distribution**:
-- Positive: 50%
-- Negative: 30%
-- Neutral: 20%
+✅ Positive: 73%
+✅ Negative: 21%
+✅ Neutral: 6%
 
 
 ## Conclusion:
